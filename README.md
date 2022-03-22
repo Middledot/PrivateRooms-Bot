@@ -21,6 +21,8 @@ A discord bot that makes use of the supposed-to-be deprecated OAuth scope of `gd
 The bot was meant to run with a Quart webserver for using the OAuth flow. You could split them up and use `discord.ext.ipc` instead.
 This could be actually useful with some kind of temporary private rooms which could be interesting, although there wouldn't be much to do without the bot being able to interact with the DM itself.
 
+While writing this, I was running/testing it on [repl.it](https://replit.com), so if you just want to see how it works, you can try it out there.
+
 Bot written with [pycord](https://github.com/Pycord-Development/pycord)
 
 Licensed under MIT
